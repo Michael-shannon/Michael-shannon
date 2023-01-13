@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on all kinds of exciting imaging projects!
 - 📫 How to reach me: you can email me at mjs2399@cumc.columbia.edu
 
-<!---
 
 ✨ 2023 ✨  Check out the repos here for...
 
@@ -20,5 +19,3 @@ I use it currently for STORM data correction, to count molecules in protein clus
 
 I am actively developing it, and am currently testing its capability to discern heterogeneous populations of NK cells that change their behaviours on different time
 and length scales depending on their subtype and signal source.
-
---->
