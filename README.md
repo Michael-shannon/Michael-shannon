@@ -9,7 +9,7 @@
 📫 How to reach me: you can email me at mjs2399@cumc.columbia.edu
 
 
-
+-----
 
 
 ✨ 2023 ✨  
@@ -32,7 +32,7 @@ and length scales depending on their subtype and signal source.
 💬 Ask me about anything -> [I am happy to answer your questions](mailto:mjs2399@cumc.columbia.edu) & help you out;
 📫 How to reach me: check the banners on top / bottom of this page!
 
-
+-----
 
 
 ### Getting in Touch 💬
