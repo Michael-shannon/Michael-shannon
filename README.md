@@ -1,7 +1,11 @@
 👋 Hi, I’m @Michael-shannon
+
 👀 I’m interested in cross length/time scale super resolution microscopy, and computational bio-image analysis.
-🌱 I’m currently learning how the morpho-kinetic behaviour of Natural Killer (immune) cells correlates to their molecular dynamics during migration in development.
+
+🌱 I’m currently learning how the morpho-kinetic behaviour of Natural Killer (immune) cells correlates to their molecular dynamics during migration in differentiation from iPSCs.
+
 💞️ I’m looking to collaborate on all kinds of exciting imaging projects!
+
 📫 How to reach me: you can email me at mjs2399@cumc.columbia.edu
 
 
