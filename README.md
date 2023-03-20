@@ -1,12 +1,17 @@
 👋 Hi, I’m @Michael-shannon
 
+[![Gmail](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkjshan@gmail.com)](mailto:mkjshan@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mjs2399@cumc.columbia.edu)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/mshanj)](https://twitter.com/mshanj)
+[![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=pv7PczwAAAAJ&hl=en&authuser=1)
+
 👀 I’m interested in cross length/time scale super resolution microscopy, and computational bio-image analysis.
 
 🌱 I’m currently learning how the morpho-kinetic behaviour of Natural Killer (immune) cells correlates to their molecular dynamics during migration in differentiation from iPSCs.
 
 💞️ I’m looking to collaborate on all kinds of exciting imaging projects!
 
-📫 How to reach me: you can email me at mjs2399@cumc.columbia.edu
+📫 How to reach me: you can email me at mjs2399@cumc.columbia.edu or click the contact button above
 
 
 -----
@@ -30,16 +35,10 @@ I am actively developing it, and am currently testing its capability to discern 
 and length scales depending on their subtype and signal source.
 
 💬 Ask me about anything -> [I am happy to answer your questions](mailto:mjs2399@cumc.columbia.edu) & help you out;
-📫 How to reach me: check the banners on top / bottom of this page!
+📫 How to reach me: check the banners at the top of this page!
 
 -----
 
 
-### Getting in Touch 💬
 
-I know how tricky it is to get things to work properly when time is of the essence! Please contact me if you need help.
 
-[![Gmail](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkjshan@gmail.com)](mailto:mkjshan@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mjs2399@cumc.columbia.edu)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/mshanj)](https://twitter.com/mshanj)
-[![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=pv7PczwAAAAJ&hl=en&authuser=1)
