@@ -11,7 +11,7 @@
 
 💞️ I’m looking to collaborate on all kinds of exciting imaging projects!
 
-📫 How to reach me: you can email me at mjs2399@cumc.columbia.edu or click the contact button above
+📫 How to reach me: you can email me at mjs2399@cumc.columbia.edu or click the contact button above.
 
 
 -----
