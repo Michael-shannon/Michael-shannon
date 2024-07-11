@@ -1,6 +1,7 @@
 👋 Hi, I’m @Michael-shannon
 
 [![Gmail](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkjshan@gmail.com)](mailto:mkjshan@gmail.com)
+[![Proton](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.j.shannon@pm.me)](mailto:m.j.shannon@pm.me)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mjs2399@cumc.columbia.edu)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/mshanj)](https://twitter.com/mshanj)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=pv7PczwAAAAJ&hl=en&authuser=1)
