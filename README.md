@@ -1,7 +1,6 @@
 👋 Hi, I’m @Michael-shannon
 
-[![Gmail](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkjshan@gmail.com)](mailto:mkjshan@gmail.com)
-[![ProtonMail](https://img.shields.io/badge/-ProtonMail-blue?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:m.j.shannon@proton.com)](mailto:m.j.shannon@protonmail.com)
+[![Proton](https://img.shields.io/badge/-ProtonMail-blue?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:m.j.shannon@proton.com)](mailto:m.j.shannon@protonmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mshannon@rockefeller.edu)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/mshanj)](https://twitter.com/mshanj)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=pv7PczwAAAAJ&hl=en&authuser=1)
