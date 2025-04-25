@@ -12,7 +12,10 @@
 
 
 -----
+✨ 2025 ✨
 
+1. sptNano: a pipeline to take single particle tracks, validate the tracks, extract features and then classify tracks of an unknown species with known molecules in a semi-supervised manner.
+2. karyosight: an image classification pipeline to predict the ploidy status of lung organoids for application to cancer diagnostics.
 
 ✨ 2024 ✨  
 
