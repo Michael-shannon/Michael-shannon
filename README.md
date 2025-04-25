@@ -2,12 +2,11 @@
 
 [![Proton](https://img.shields.io/badge/-ProtonMail-blue?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:m.j.shannon@proton.com)](mailto:m.j.shannon@protonmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mshannon@rockefeller.edu)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/mshanj)](https://twitter.com/mshanj)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=pv7PczwAAAAJ&hl=en&authuser=1)
 
 👀 I’m interested in broadly in computational bio-image analysis.
 
-🌱 Currently making a single particle tracking pipeline for data acquired in embryonic stem cells
+🌱 Currently making a single particle tracking pipeline for data acquired in neurons from embryonic stem cells
 
 📫 How to reach me: you can email me at mshannon@rockefeller.edu or click the contact button above.
 
