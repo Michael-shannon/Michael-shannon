@@ -4,7 +4,7 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mshannon@rockefeller.edu)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=pv7PczwAAAAJ&hl=en&authuser=1)
 
-👀 I’m interested in broadly in computational bio-image analysis.
+👀 I’m interested broadly in computational bio-image analysis.
 
 🌱 Currently making a single particle tracking pipeline for data acquired in neurons from embryonic stem cells
 
@@ -14,24 +14,20 @@
 -----
 ✨ 2025 ✨
 
-1. sptNano: a pipeline to take single particle tracks, validate the tracks, extract features and then classify tracks of an unknown species with known molecules in a semi-supervised manner.
+1. sptNano: a pipeline to extract features from single particle tracks, classify them and compare with known species.
 2. karyosight: an image classification pipeline to predict the ploidy status of lung organoids for application to cancer diagnostics.
 
 ✨ 2024 ✨  
 
-Check out the repos here for...
+3. CellPLATO
 
-✨ CellPLATO
-
-"cell PLasticity Analysis TOol" : an unsupervised ML workflow to classify cell behaviours from timelapse microscopy
-
-Please feel free to contact me about it!
+"cell PLasticity Analysis TOol" : an unsupervised approach to classify cell behaviours from timelapse microscopy
  
-✨ Particle Image Velocimetry (PIV) for batch analysis of cytoskeletal flow
+4. Particle Image Velocimetry (PIV) for batch analysis of cytoskeletal flow
 
 I adapted this from Ivan Rey-Suarez and Arpita Upadhyaya (full paper link in repo description)
 
-✨ AWS adapted localization microscopy multi-blinking correction software (DDC) from Christopher H. Bohrer
+5. AWS adapted localization microscopy multi-blinking correction software (DDC) from Christopher H. Bohrer
 
 I use it currently for STORM data correction, to count molecules in protein clusters/organizing centres, adapted to work on AWS cloud for large datasets
 
