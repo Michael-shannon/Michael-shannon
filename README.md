@@ -12,14 +12,14 @@
 
 
 -----
-✨ 2025 ✨
+✨ 2025/2026 ✨
 
 1. sptNano: a pipeline to extract features from single particle tracks, classify them and compare with known species.
-2. karyosight: an image classification pipeline to predict the ploidy status of lung organoids for application to cancer diagnostics.
+
 
 ✨ 2024 ✨  
 
-3. CellPLATO
+2. CellPLATO
 
 "cell PLasticity Analysis TOol" : an unsupervised approach to classify cell behaviours from timelapse microscopy
  
